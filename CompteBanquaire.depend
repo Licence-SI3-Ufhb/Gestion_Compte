@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1510145909 source:f:\mes programmes\c--c++\code c++\comptebanquaire\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	"DVM_fichier.h"
+
+1510043156 f:\mes programmes\c--c++\code c++\comptebanquaire\dvm_fichier.h
+	<fstream>
+	<string>
+	<ctime>
+
